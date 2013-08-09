@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forza-text", "forza-text\forza-text.csproj", "{E4F92687-9154-49E0-8E7C-264AB7C4D4ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forza-text-gui", "forza-text-gui\forza-text-gui.csproj", "{A6D6D56F-BA59-49FE-8E16-F0AB995A56E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{E4F92687-9154-49E0-8E7C-264AB7C4D4ED}.Debug|x86.Build.0 = Debug|x86
 		{E4F92687-9154-49E0-8E7C-264AB7C4D4ED}.Release|x86.ActiveCfg = Release|x86
 		{E4F92687-9154-49E0-8E7C-264AB7C4D4ED}.Release|x86.Build.0 = Release|x86
+		{A6D6D56F-BA59-49FE-8E16-F0AB995A56E6}.Debug|x86.ActiveCfg = Debug|x86
+		{A6D6D56F-BA59-49FE-8E16-F0AB995A56E6}.Debug|x86.Build.0 = Debug|x86
+		{A6D6D56F-BA59-49FE-8E16-F0AB995A56E6}.Release|x86.ActiveCfg = Release|x86
+		{A6D6D56F-BA59-49FE-8E16-F0AB995A56E6}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
