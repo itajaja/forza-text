@@ -1,8 +1,9 @@
-﻿<Window x:Class="forza_text_gui.MainWindow"
+﻿<Window
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" Height="350" Width="525" WindowStyle="None" Icon="/forza-text-gui;component/Resources/icon.png">
+        xmlns:Anno="http://schemas.microsoft.com/expression/blend/extensions/annotations/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" mc:Ignorable="Anno d" x:Class="forza_text_gui.MainWindow" WindowStyle="None" Icon="/forza-text-gui;component/Resources/icon.png" UseLayoutRounding="True" d:DesignWidth="800" d:DesignHeight="600" Title="{DynamicResource application-title}" WindowState="Maximized">
     <Grid>
+    	<Button Content="Button" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         
     </Grid>
 </Window>
